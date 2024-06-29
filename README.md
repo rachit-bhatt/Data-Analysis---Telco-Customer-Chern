@@ -5,10 +5,7 @@ This project analyzes customer data to identify factors contributing to customer
 
 ## Project Structure
 - `data/`: Contains raw and processed data.
-- `notebooks/`: Jupyter notebooks with code and explanations.
-- `scripts/`: Python scripts for data preprocessing, model training, etc.
-- `models/`: Saved models.
-- `reports/`: Reports and visualizations.
+- `Telco Customer Chern.ipynb`: Jupyter notebooks with code and explanations.
 
 ## Getting Started
 1. Clone the repository.
@@ -16,7 +13,11 @@ This project analyzes customer data to identify factors contributing to customer
 3. Run the notebooks or scripts to reproduce the analysis and models.
 
 ## Results
-Our best model achieved an accuracy of X%, precision of Y%, recall of Z%, and F1 score of W%.
+Our best model `Random Forest` achieved:
+- Accuracy: 78%
+- Precision: 63%
+- Recall: 42%
+- F1 Score: 50%
 
 ## Future Work
 - Explore more advanced models.
